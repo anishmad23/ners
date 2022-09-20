@@ -1,5 +1,5 @@
 # Code for Neural Reflectance Surfaces (NeRS)
-
+[[`Colab Demo - Custom Object`](https://colab.research.google.com/drive/1lJH6n15WcFF6tXpaUz7CW8xVVDaQa2ds?usp=sharing)]
 [[`arXiv`](https://arxiv.org/abs/2110.07604)]
 [[`Project Page`](https://jasonyzhang.com/ners/)]
 [[`Colab Demo`](https://colab.research.google.com/drive/1L4Sl_9Osc2J_I5YpkteLrb-VbnwdDokd?usp=sharing)]
